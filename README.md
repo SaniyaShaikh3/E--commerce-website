@@ -295,3 +295,5 @@ A responsive E-commerce website frontend built with HTML, CSS, and JavaScript fe
 </body>
 
 </html>
+
+//css code 
